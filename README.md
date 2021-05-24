@@ -11,6 +11,6 @@
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
-A Simple Cipher Application Written is HTML, CSS &amp; JavaScript (JS). This is a OSS(Open Source Software), maintained by Parv Ashwani.
+A Simple Cipher Application Written is HTML, CSS &amp; JavaScript (JS). This is a OSS(Open Source Software), maintained by Parv Ashwani Under the Name of Zarwin.
 
 **_NOTE:_** My love for Badges is Psychotic LoL!
