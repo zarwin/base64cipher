@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "Base64 Cipher",
+  "short_name": "Base64",
+  "description": "Encodes and decodes media/txt to and from Base64.",
+  "version": "1.2",
+  "author":"Parv Ashwani",
+  "offline_enabled": true,
+  "permissions": [
+    "storage"
+  ],
+  "icons": { "16":  "icons/icon16.png",
+             "48":  "icons/icon48.png",
+            "128":  "icons/icon128.png"
+  },
+  "browser_action": {
+   "default_popup": "popup.html",
+   "default_title": "Convert to and from Base 64"
+  }
+}
